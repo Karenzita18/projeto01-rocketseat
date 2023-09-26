@@ -1,0 +1,23 @@
+﻿Revisão para Atividade Avaliativa do 1º Bimestre
+19/09/2023 - 19h00 até 23h59
+
+UA1 – Fundamentos de Engenharia de Software e Processos de Software
+
+	1. Análise e Projeto de Sistema
+	2. Gap Semântico
+	3. Principio de Engenharia de Software
+	4. Itens da Engenharia de Software: métodos, ferramentas e procedimentos 
+	5. Ciclo de Vida de Software
+
+UA2 – Engenharia de Requisitos – Métodos Tradicionais e Ágeis
+	
+	1. Requisitos
+	2. Tipos de Requisitos: Funcionais e Não Funcionais
+	3. Processo Ágil
+	4. Metodológia SCRUM
+
+UA3 – Processos de Negócio e Engenharia de Requisitos
+
+	1. UML
+	2. Diagramas
+	3. Principios de Orientação a Objetos
